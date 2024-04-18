@@ -14,7 +14,7 @@ import (
 var lastContent string
 
 func main() {
-	url := "https://webhook.site/fe2eaf5d-1a1a-41de-8939-3be4cd517b02"
+	url := "https://raw.githubusercontent.com/alex2ale/hello/main/m.txt"
 
 	for {
 		content, err := readURLContent(url)
