@@ -1,10 +1,3 @@
 wait
-asda
-asdasd
-ddddd
 https://webhook.site/095e0092-296b-48da-ab31-bc303f6c9ae0
-https://webhook.site/fe2eaf5d-1a1a-41de-8939-3be4cd517b02
-https://webhook.site/fe2eaf5d-1a1a-41de-8939-3be4cd517b02
-1
-asdasd
 http://google.com
